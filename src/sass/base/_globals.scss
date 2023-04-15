@@ -1,0 +1,30 @@
+@use "variables" as v;
+
+html{
+	box-sizing: border-box; 
+	font-size: 62.5%;
+}
+
+*, *:before, *:after{
+	box-sizing: inherit;
+	margin: 0;
+	padding: 0;
+}
+
+body{
+    font-size: 16px;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: v.$titulo;
+  font-weight: normal;
+}
+
+p{
+    font-family: v.$texto;
+}
