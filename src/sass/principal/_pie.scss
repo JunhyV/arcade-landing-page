@@ -1,0 +1,29 @@
+@use "../base/variables" as v;
+@use "../base/mixins" as m;
+
+.footer{
+    background-color: v.$negro;
+    color: v.$blanco;
+    display: flex;
+    flex-direction: column; 
+    gap: 2rem;
+    justify-content: space-around;
+    padding: 2rem;
+    @include m.movil{
+        flex-direction: row; 
+    }
+
+    &__links h2, &__datos h2{
+        margin-bottom: 2rem;
+    }
+
+    &__link, &__dato{
+        display: flex;
+        text-transform: capitalize;
+        align-items: center;
+    }
+
+    &__dato img{
+        width: 3rem;
+    }
+}

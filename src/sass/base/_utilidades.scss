@@ -1,0 +1,42 @@
+@use "./variables" as v;
+
+:root{
+  --slide-transform: 0;
+}
+
+.centrar {
+  display: flex;
+  justify-items: center;
+  align-items: center;
+}
+
+//Animaciones
+a,
+a > span {
+  position: relative;
+  color: inherit;
+  text-decoration: none;
+  line-height: 24px;
+}
+a:before,
+a:after {
+  content: "";
+  position: absolute;
+  transition: transform 0.5s ease;
+}
+
+.hover-3 {
+  display: inline-flex;
+  overflow: hidden;
+}
+.hover-3:before {
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  height: 2px;
+  background: v.$amarillo;
+  transform: translateX(-101%);
+}
+.hover-3:hover:before {
+  transform: translateX(0);
+}

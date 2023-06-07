@@ -1,0 +1,35 @@
+@use "../base/mixins" as m;
+
+.nosotros{
+    padding: 5rem 2rem 2rem 2rem;
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+    @include m.movil{
+        padding-left: 10rem;
+        padding-right: 10rem;
+    }
+
+    &__informacion{
+        & h1{
+            font-size: 3rem;
+            margin-bottom: 2rem;
+            @include m.movil{
+                font-size: 4rem;
+            }
+        }
+        & p{
+            font-size: 1.6rem;
+            margin-bottom: 2rem;
+        }
+    }
+    &__servicios{
+        & h2{
+            font-size: 3rem;
+            margin-bottom: 2rem;
+        }
+        & ul{
+            margin-left: 5rem;
+        }
+    }
+}

@@ -6,6 +6,9 @@ import SobreNosotros from "../pages/SobreNosotros";
 import Eventos from "../pages/Eventos";
 import Tienda from "../pages/Tienda";
 import Contacto from "../pages/Contacto";
+import TiendaPrincipal from "../pages/tienda/TiendaPrincipal";
+import Categorias from "../pages/tienda/Categorias";
+import { Producto } from "../pages/tienda/Producto";
 
 export const router = createBrowserRouter([
     {
@@ -27,7 +30,21 @@ export const router = createBrowserRouter([
             },
             {
                 path: '/tienda',
-                element: <Tienda/>
+                element: <Tienda/>,
+                children: [
+                    {
+                        index: true,
+                        element: <TiendaPrincipal/>,
+                    },
+                    {
+                        path: "/tienda/:id",
+                        element: <Categorias/>
+                    },
+                    {
+                        path: "/tienda/:id/:productoId",
+                        element: <Producto/>
+                    }
+                ]
             },
             {
                 path: '/contacto',

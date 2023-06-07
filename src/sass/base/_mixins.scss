@@ -1,0 +1,18 @@
+@use "./variables" as v;
+
+//Media Queries
+@mixin movil{
+    @media (min-width: v.$movil) {
+     @content;   
+    }
+}
+@mixin tablet{
+    @media (min-width: v.$tablet) {
+     @content;   
+    }
+}
+@mixin escritorio{
+    @media (min-width: v.$escritorio) {
+     @content;   
+    }
+}

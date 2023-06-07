@@ -1,0 +1,35 @@
+@use "../base/variables" as v;
+@use "../base/mixins" as m;
+
+.tienda {
+  &__categorias {
+    width: 100%;
+    background-color: v.$negro;
+    color: v.$blanco;
+    & h2 {
+      height: 5rem;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      font-size: 2rem;
+      font-weight: bold;
+      color: v.$amarillo;
+      padding-left: 2rem;
+      padding-right: 2rem;
+    }
+    
+    & ul {
+      display: flex;
+      align-items: center;
+      justify-content: space-around;
+      text-transform: capitalize;
+      list-style: none;
+      font-size: 1rem;
+      li {
+        &:hover {
+          color: v.$amarillo;
+        }
+      }
+    }
+  }
+}

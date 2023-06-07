@@ -1,0 +1,632 @@
+[
+    {
+        "nombre": "nintendo",
+        "img": "https://drive.google.com/uc?export=view&id=1WPeEUaJYi7Ykd-KW4CCQgiomq5W_o431",
+        "productos": [
+            {
+                "productosId": 1,
+                "nombre": "juegos de pokemon para nintendo switch",
+                "descripcion": "Juegos de pokemon usados en excelentes condiciones",
+                "contenido": [
+                    {
+                        "id": 1,
+                        "obj": "pokemon legends arceus"
+                    },
+                    {
+                        "id": 2,
+                        "obj": "pokemon escudo"
+                    },
+                    {
+                        "id": 3,
+                        "obj": "pokemon violeta"
+                    }
+                ],
+                "img": "https://drive.google.com/uc?export=view&id=1nllcPPpsJLSexktX9iES-L8zOU3HjeXA"
+            },
+            {
+                "productosId": 2,
+                "nombre": "juegos nintendo switch",
+                "descripcion": "Juegos de nintendo switch usados en excelentes condiciones",
+                "contenido": [
+                    {
+                        "id": 1,
+                        "obj": "pokemon legends arceus"
+                    },
+                    {
+                        "id": 2,
+                        "obj": "pokemon escudo"
+                    },
+                    {
+                        "id": 3,
+                        "obj": "metroid dread"
+                    },
+                    {
+                        "id": 4,
+                        "obj": "luigi's mansion 3"
+                    },
+                    {
+                        "id": 5,
+                        "obj": "donkey kong country tropical freeze"
+                    }
+                ],
+                "img": "https://drive.google.com/uc?export=view&id=1YE0fyGJ6cZpSaB_YeCjxNy3qFAGk1bAR"
+            },
+            {
+                "productosId": 3,
+                "nombre": "juegos de zelda para nintendo switch",
+                "descripcion": "Juegos de zelda usados en excelentes condiciones",
+                "contenido": [
+                    {
+                        "id": 1,
+                        "obj": "zelda skyward sword hd"
+                    },
+                    {
+                        "id": 2,
+                        "obj": "zelda link's awakening"
+                    },
+                    {
+                        "id": 3,
+                        "obj": "zelda breath of the wild"
+                    }
+                ],
+                "img": "https://drive.google.com/uc?export=view&id=1gbyNcOsryqVzCAEYHQ8iUqly0HJmmSma"
+            },
+            {
+                "productosId": 4,
+                "nombre": "bateria para consola wii",
+                "descripcion": "set de bateria para guitar hero en consola wii usada, en buen estado y con garantia",
+                "contenido": [
+                    {
+                        "id": 1,
+                        "obj": "bateria guitar hero wii"
+                    }
+                ],
+                "img": "https://drive.google.com/uc?export=view&id=1RwHoyrWw9z8PmuucaJTR4HpY_vAo7BKn"
+            },
+            {
+                "productosId": 5,
+                "nombre": "juegos mario gold para nintendo switch",
+                "descripcion": "Juegos de mario nuevo sellado",
+                "contenido": [
+                    {
+                        "id": 1,
+                        "obj": "mario gold super rush"
+                    }
+                ],
+                "img": "https://drive.google.com/uc?export=view&id=1ao4GnS7JkVwhR3H13QZJ9XwIhHRWkGlQ"
+            },
+            {
+                "productosId": 6,
+                "nombre": "joycons originales y replica oficial",
+                "descripcion": "controles duales para consola nintendo switch",
+                "contenido": [
+                    {
+                        "id": 1,
+                        "obj": "controles joycon rosa y verde originales"
+                    },
+                    {
+                        "id": 2,
+                        "obj": "controles joycon grises replica"
+                    }
+                ],
+                "img": "https://drive.google.com/uc?export=view&id=18uOyANQ7_nZXXn9rfl920dqOAGh1tR--"
+            },
+            {
+                "productosId": 7,
+                "nombre": "juegos para consola wii",
+                "descripcion": "Juegos variados usados en excelentes condiciones para consola wii originales",
+                "contenido": [
+                    {
+                        "id": 1,
+                        "obj": "mario strikers charged"
+                    },
+                    {
+                        "id": 2,
+                        "obj": "the last history"
+                    },
+                    {
+                        "id": 3,
+                        "obj": "super smash bros brawl"
+                    },
+                    {
+                        "id": 4,
+                        "obj": "zelda skyward sword"
+                    }
+                ],
+                "img": "https://drive.google.com/uc?export=view&id=12ZHaygtd227_pLEy3KWAXPtKwcG_TpZl"
+            },
+            {
+                "productosId": 8,
+                "nombre": "cartucho de juegos para nintendo 64",
+                "descripcion": "Juegos de nintendo 64 usados en buenas condiciones funcionales",
+                "contenido": [
+                    {
+                        "id": 1,
+                        "obj": "super smash bros"
+                    },
+                    {
+                        "id": 2,
+                        "obj": "zelda ocarina of time"
+                    },
+                    {
+                        "id": 3,
+                        "obj": "diddy kong racing"
+                    }
+                ],
+                "img": "https://drive.google.com/uc?export=view&id=1QxUdwDI-scEXV_Xe4LCdOqFXEQvmD5PF"
+            },
+            {
+                "productosId": 9,
+                "nombre": "consola nintendo switch",
+                "descripcion": "consola nintendo switch usada a buen precio con controles joycon azul y rojo",
+                "contenido": [
+                    {
+                        "id": 1,
+                        "obj": "consola nintendo switch"
+                    },
+                    {
+                        "id": 1,
+                        "obj": "controles joycon azul y rojo"
+                    },
+                    {
+                        "id": 1,
+                        "obj": "cable de carga"
+                    },
+                    {
+                        "id": 1,
+                        "obj": "cable HDMI"
+                    },
+                    {
+                        "id": 1,
+                        "obj": "nintendo switch docker"
+                    }
+                ],
+                "img": "https://drive.google.com/uc?export=view&id=10y7EUmEoIuQY2OY9gnYfuHhfIlhVP5He"
+            },
+            {
+                "productosId": 10,
+                "nombre": "juegos de nintendo switch",
+                "descripcion": "Juegos para nintendo switch usados en excelentes condiciones",
+                "contenido": [
+                    {
+                        "id": 1,
+                        "obj": "nier automata"
+                    },
+                    {
+                        "id": 2,
+                        "obj": "pokemon espada"
+                    },
+                    {
+                        "id": 3,
+                        "obj": "captain subasa rise of new champions"
+                    }
+                ],
+                "img": "https://drive.google.com/uc?export=view&id=1G3nHUHBzLGMArrCHVtACtR_8IsBFsHzM"
+            },
+            {
+                "productosId": 11,
+                "nombre": "controles pro para nintendo switch",
+                "descripcion": "control pro de nintendo switch con diferentes diseños y precios",
+                "contenido": [
+                    {
+                        "id": 1,
+                        "obj": "control pro"
+                    }
+                ],
+                "img": "https://drive.google.com/uc?export=view&id=1Ha549gP3QinJGdAx3T51ELxLhA4KKKdJ"
+            }
+        ]
+    },
+    {
+        "nombre": "xbox",
+        "img": "https://drive.google.com/uc?export=view&id=1DHzJFxTNAemZNFnEJ4NSa7yTqtXYibYU",
+        "productos": [
+            {
+                "productosId": 1,
+                "nombre": "juegos call of duty",
+                "descripcion": "juegos de la franquicia call of duty para xbox 360 usados en buenas condiciones",
+                "contenido": [
+                    {
+                        "id": 1,
+                        "obj": "call of duty mordern warfare 2"
+                    },
+                    {
+                        "id": 2,
+                        "obj": "call of duty black ops"
+                    },
+                    {
+                        "id": 3,
+                        "obj": "call of duty ghost"
+                    },
+                    {
+                        "id": 4,
+                        "obj": "call of duty mordern warfare 3"
+                    },
+                    {
+                        "id": 5,
+                        "obj": "call of duty mordern warfare"
+                    }
+                ],
+                "img": "https://drive.google.com/uc?export=view&id=1btKmjzvNOge_XFbdFhbj6pR8wzasf3Qu"
+            },
+            {
+                "productosId": 2,
+                "nombre": "guitarra para juego guitar hero",
+                "descripcion": "guitarra roja inalambrica para cualquier juego guitar hero o rock band usada en buenas condiciones para xbox 360",
+                "contenido": [
+                    {
+                        "id": 1,
+                        "obj": "guitarra de guitar hero"
+                    }
+                ],
+                "img": "https://drive.google.com/uc?export=view&id=1_ghegXx4Dc0oN-LfNvzVN4iV7LL6lFgE"
+            },
+            {
+                "productosId": 3,
+                "nombre": "consola xbox series x",
+                "descripcion": "consola de nueva generacion usada xbox series x seminueva",
+                "contenido": [
+                    {
+                        "id": 1,
+                        "obj": "control negro para xbox"
+                    },
+                    {
+                        "id": 2,
+                        "obj": "consola xbox series x"
+                    },
+                    {
+                        "id": 3,
+                        "obj": "cable a corriente"
+                    },
+                    {
+                        "id": 4,
+                        "obj": "cable HDMI"
+                    }
+                ],
+                "img": "https://drive.google.com/uc?export=view&id=1QoBSE0WafOCvT56-nKka5ZIpxo9cgj_C"
+            },
+            {
+                "productosId": 4,
+                "nombre": "juegos para xbox",
+                "descripcion": "juegos variados nuevos en excelentes para consola xbox, también funcionan en consola xbox series x",
+                "contenido": [
+                    {
+                        "id": 1,
+                        "obj": "grand theft auto V"
+                    },
+                    {
+                        "id": 2,
+                        "obj": "read dead redemption II"
+                    },
+                    {
+                        "id": 3,
+                        "obj": "trials rising"
+                    },
+                    {
+                        "id": 4,
+                        "obj": "wolfenstein youngblood deluxe edition"
+                    },
+                    {
+                        "id": 5,
+                        "obj": "gi joe operation blackout"
+                    }
+                ],
+                "img": "https://drive.google.com/uc?export=view&id=1WmpNKeFkPM1RIN5HdDwMdiTDYh6yXbEu"
+            },
+            {
+                "productosId": 5,
+                "nombre": "controles para xbox",
+                "descripcion": "controles nuevos color negro para xbox en version xbox one",
+                "contenido": [
+                    {
+                        "id": 1,
+                        "obj": "controles negros de xbox"
+                    }
+                ],
+                "img": "https://drive.google.com/uc?export=view&id=1Q0pK9gCzZ0jPyKm1AtehKKXj4Ux_aPIM"
+            },
+            {
+                "productosId": 6,
+                "nombre": "consola xbox series s",
+                "descripcion": "consola de nueva generacion usada xbox series s seminueva",
+                "contenido": [
+                    {
+                        "id": 1,
+                        "obj": "control blanco para xbox"
+                    },
+                    {
+                        "id": 2,
+                        "obj": "consola xbox series s"
+                    },
+                    {
+                        "id": 3,
+                        "obj": "cable a corriente"
+                    },
+                    {
+                        "id": 4,
+                        "obj": "cable HDMI"
+                    }
+                ],
+                "img": "https://drive.google.com/uc?export=view&id=1MFGmGV-dX8CfxjXd5dF-9t7LtPIJWYTl"
+            }
+        ]
+    },
+    {
+        "nombre": "playstation",
+        "img": "https://drive.google.com/uc?export=view&id=1Ch3Bq957TQKHARYqRa7Gy6X8IvzgXmys",
+        "productos": [
+            {
+                "productosId": 1,
+                "nombre": "consola playstation 5",
+                "descripcion": "",
+                "contenido": [
+                    {
+                        "id": 1,
+                        "obj": ""
+                    }
+                ],
+                "img": "https://drive.google.com/uc?export=view&id=13xt4snXM8uovI68KJ3Ap57od3ubWWfVv"
+            },
+            {
+                "productosId": 2,
+                "nombre": "resident evil 4",
+                "descripcion": "juego nuevo de playstation 5",
+                "contenido": [
+                    {
+                        "id": 1,
+                        "obj": "juego resident evil 4 remake"
+                    }
+                ],
+                "img": "https://drive.google.com/uc?export=view&id=14XPSQjrXz9pUKCKO1t8Aq1nxOtpvjJF-"
+            },
+            {
+                "productosId": 3,
+                "nombre": "playstation 5 camara HD",
+                "descripcion": "camara para chat online de playstation 5",
+                "contenido": [
+                    {
+                        "id": 1,
+                        "obj": ""
+                    }
+                ],
+                "img": "https://drive.google.com/uc?export=view&id=14rROSfoJhORs0cmT_6neTtVM-TuIodHc"
+            },
+            {
+                "productosId": 4,
+                "nombre": "juegos de playstation 4",
+                "descripcion": "juegos nuevos y seminuevos de playstation 5",
+                "contenido": [
+                    {
+                        "id": 1,
+                        "obj": "uncharted the lost legacy"
+                    },
+                    {
+                        "id": 2,
+                        "obj": "assassins creed valhalla"
+                    },
+                    {
+                        "id": 3,
+                        "obj": "grand theft auto the trilogy"
+                    },
+                    {
+                        "id": 4,
+                        "obj": "call of duty modern warfare"
+                    }
+                ],
+                "img": "https://drive.google.com/uc?export=view&id=19h86K8kdKF5WpepEHUAgzcnRgsGNcjhY"
+            },
+            {
+                "productosId": 5,
+                "nombre": "grand theft auto the trilogy",
+                "descripcion": "juego nuevo para playstation 4",
+                "contenido": [
+                    {
+                        "id": 1,
+                        "obj": "grand theft auto the trilogy"
+                    }
+                ],
+                "img": "https://drive.google.com/uc?export=view&id=1EJAqrSygPWfUMQ-rtRY87rRA7l3xUBH5"
+            },
+            {
+                "productosId": 6,
+                "nombre": "consola playstation 4",
+                "descripcion": "",
+                "contenido": [
+                    {
+                        "id": 1,
+                        "obj": ""
+                    }
+                ],
+                "img": "https://drive.google.com/uc?export=view&id=1EWCuQNENr7Yhn2Xsj1Zs08rkhioMCsI2"
+            },
+            {
+                "productosId": 7,
+                "nombre": "juegos para playstation 4",
+                "descripcion": "juegos seminuevos en buenas condiciones",
+                "contenido": [
+                    {
+                        "id": 1,
+                        "obj": "nier automata"
+                    },
+                    {
+                        "id": 2,
+                        "obj": "ghost of tsushima"
+                    },
+                    {
+                        "id": 3,
+                        "obj": "the last of us part II"
+                    },
+                    {
+                        "id": 4,
+                        "obj": "shadow of the colossus"
+                    }
+                ],
+                "img": "https://drive.google.com/uc?export=view&id=1WtJOcVqUGyCY0SmNpHsHqRW2nNo2lS4v"
+            },
+            {
+                "productosId": 8,
+                "nombre": "juegos para playstation 4",
+                "descripcion": "juegos para playstation 4",
+                "contenido": [
+                    {
+                        "id": 1,
+                        "obj": "uncharted 4 a thief's end"
+                    },
+                    {
+                        "id": 2,
+                        "obj": "call of duty black ops III"
+                    }
+                ],
+                "img": "https://drive.google.com/uc?export=view&id=1hyYzymO21tKcy6Y6n1otPP85AOFM95pz"
+            }
+        ]
+    },
+    {
+        "nombre": "ropa",
+        "img": "https://drive.google.com/uc?export=view&id=1HgCkO4TcqMifhNpY5-qIG_W7MdlsXPu5",
+        "productos": [
+            {
+                "productosId": 1,
+                "nombre": "gorras un solo color",
+                "descripcion": "gorras de nintendo",
+                "contenido": [
+                    {
+                        "id": 1,
+                        "obj": "gorra DK"
+                    },
+                    {
+                        "id": 2,
+                        "obj": "gorra bowser"
+                    }
+                ],
+                "img": "https://drive.google.com/uc?export=view&id=1zN0rgYDy48dOo6y2z2-v6rFsVExNimQj"
+            },
+            {
+                "productosId": 2,
+                "nombre": "gorras blanca con logo",
+                "descripcion": "gorras de nintendo",
+                "contenido": [
+                    {
+                        "id": 1,
+                        "obj": "gorra peach"
+                    },
+                    {
+                        "id": 2,
+                        "obj": "gorra estrella"
+                    },
+                    {
+                        "id": 3,
+                        "obj": "gorra bala"
+                    }
+                ],
+                "img": "https://drive.google.com/uc?export=view&id=1B1ieX1gCzMHr-jckb0s3Xw25Szta5ZCc"
+            },
+            {
+                "productosId": 3,
+                "nombre": "gorras un solo color",
+                "descripcion": "gorras de nintendo",
+                "contenido": [
+                    {
+                        "id": 1,
+                        "obj": "gorra mario"
+                    },
+                    {
+                        "id": 2,
+                        "obj": "gorra luigi"
+                    }
+                ],
+                "img": "https://drive.google.com/uc?export=view&id=1vegVfLp1hEwF0uOU1J9pkrkFMxShmGRP"
+            },
+            {
+                "productosId": 4,
+                "nombre": "gorras blanca con logo",
+                "descripcion": "gorras de nintendo",
+                "contenido": [
+                    {
+                        "id": 1,
+                        "obj": "gorra hongo rojo"
+                    },
+                    {
+                        "id": 2,
+                        "obj": "gorra hongo verde"
+                    }
+                ],
+                "img": "https://drive.google.com/uc?export=view&id=1FVwioKLf8aAj1doD7anPlf7FMRGV3QIm"
+            }
+        ]
+    },
+    {
+        "nombre": "arcades",
+        "img": "https://drive.google.com/uc?export=view&id=1aW-J1YMxWHqGWdwS7riIJ0mhtt-TzAjU",
+        "productos": [
+            {
+                "productosId": 1,
+                "nombre": "arcade street fighter V",
+                "descripcion": "control arcade doble de 6 botones",
+                "contenido": [
+                    {
+                        "id": 1,
+                        "obj": "arcade street fighter V"
+                    }
+                ],
+                "img": "https://drive.google.com/uc?export=view&id=1ICh6UzUdXiIvW88HotXI6MP_E3tS2igP"
+            },
+            {
+                "productosId": 2,
+                "nombre": "arcade mario and peach",
+                "descripcion": "control arcade doble de 6 botones",
+                "contenido": [
+                    {
+                        "id": 1,
+                        "obj": "arcade con paper mario and peach"
+                    }
+                ],
+                "img": "https://drive.google.com/uc?export=view&id=1rqEj7HmU7zZ9kH7h4iwVhh9eLxsBrEcr"
+            },
+            {
+                "productosId": 3,
+                "nombre": "arcades disponibles",
+                "descripcion": "control arcade doble de 6 botones",
+                "contenido": [
+                    {
+                        "id": 1,
+                        "obj": "arcade mario galaxy 2"
+                    },
+                    {
+                        "id": 1,
+                        "obj": "arcade marvel vs capcom infinite"
+                    }
+                ],
+                "img": "https://drive.google.com/uc?export=view&id=1ZariUwxzI8BIFAo1u7dCgu0yEzmKWkAI"
+            },
+            {
+                "productosId": 4,
+                "nombre": "arcades disponibles",
+                "descripcion": "control arcade doble de 6 botones",
+                "contenido": [
+                    {
+                        "id": 1,
+                        "obj": "arcade pacman"
+                    },
+                    {
+                        "id": 1,
+                        "obj": "arcade super mario odyssey"
+                    }
+                ],
+                "img": "https://drive.google.com/uc?export=view&id=1RU9Bq3Xrn2bqAerF-GDfFNsVbV0khyEt"
+            },
+            {
+                "productosId": 5,
+                "nombre": "arcade mario gold",
+                "descripcion": "control arcade doble de 6 botones",
+                "contenido": [
+                    {
+                        "id": 1,
+                        "obj": "arcade mario gold"
+                    }
+                ],
+                "img": "https://drive.google.com/uc?export=view&id=1eoWkRrWZj30UyQfNXXysV9f455O1tUJe"
+            }
+        ]
+    }
+]
